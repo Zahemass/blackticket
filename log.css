@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+}
+.menu{
+	margin: 0;
+	
+	height: 55px;
+	width: none ;
+	background-color: #212529;
+	border-top: none;
+
+}
+.labelu{
+	width: 25%;
+	height: 45px;
+	line-height: 50px;
+	padding-left: 10px;
+}
+h2{
+	
+  
+  margin-top: 100px;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: roboto,sans-serif;
+}
+.btn {
+  	border: 0;
+ 		font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #000000;
+    padding: 10px 20px 10px 20px;
+    width: 26.4%;
+    text-decoration: none;
+}
+
+.btn:hover {
+  background: #211e24;
+  text-decoration: none;
+}
+.button{
+	color: white;
+	text-decoration: none;
+	
+}
+
+.loginimage{
+	width: 40px ;
+	height: 40px;
+	position: absolute;
+	right: 400px;
+	top: 7px;
+}
+
+.logtext{
+	position: absolute;
+	right: 310px;
+	top: 10px;
+	font-family: roboto,sans-serif;
+	font-size:12px;
+	color: antiquewhite;
+}
+.forgot{
+	color: #212529;
+	text-decoration: none;
+}
